@@ -1,4 +1,4 @@
-# Learnig001
+# Learning001
 
 This is a decription for the Readme file
 
